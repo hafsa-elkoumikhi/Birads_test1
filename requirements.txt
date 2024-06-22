@@ -1,4 +1,5 @@
 Flask==2.2.5
+Gunicorn
 flask_sqlalchemy==3.1.1
 numpy>=1.0.0,<2.0.0
 Pillow>=9.4.0,<11.0.0
